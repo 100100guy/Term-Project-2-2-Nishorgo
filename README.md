@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any queries or suggestions, please contact:
 
-- **Email:** support@nishorgo.com
-- **GitHub:** [Your GitHub Profile](https://github.com/NafiuRahman77)
+- **Email:** nafiu.rahman@gmail.com
+- **GitHub:** [NafiuRahman77](https://github.com/NafiuRahman77)
