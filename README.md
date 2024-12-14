@@ -79,6 +79,34 @@ Follow these steps to set up the Nishorgo project on your local machine:
    - Access the admin panel by navigating to `http://localhost/nishorgo/admin`.
    - Use provided credentials to log in and manage the platform.
 
+---
+
+
+## Screenshots
+
+### Login
+![Login page Screenshot](assets/login.png)
+
+### Homepage
+![Homepage Screenshot](assets/Home.png)
+
+### Product Section
+![Product Section Screenshot](assets/Product section.png)
+
+### Cart
+![Cart Screenshot](assets/cart.png)
+
+### Order
+![Order Screenshot](assets/order.png)
+
+### Admin Dashboard
+![Admin dashboard Screenshot](assets/admin-stats.png)
+
+### Admin View/Remove Product
+![Admin product Screenshot](assets/admin-view-product.png)
+
+### Admin Add Product
+![Admin add product Screenshot](assets/admin-add.png)
 
 
 ---
