@@ -91,7 +91,7 @@ Follow these steps to set up the Nishorgo project on your local machine:
 ![Homepage Screenshot](assets/Home.png)
 
 ### Product Section
-![Product Section Screenshot](assets/Product section.png)
+![Product Section Screenshot](assets/product_section.png)
 
 ### Cart
 ![Cart Screenshot](assets/cart.png)
